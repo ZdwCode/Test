@@ -13,4 +13,8 @@ class MainActivity : AppCompatActivity() {
     private fun login(){
         //登陆
     }
+
+    private fun load(){
+        //下载
+    }
 }
