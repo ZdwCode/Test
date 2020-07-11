@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
     private fun load(){
         //下载
     }
+
+    private fun upload(){
+        //上传
+    }
 }
